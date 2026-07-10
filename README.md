@@ -1,10 +1,10 @@
 # Hi there, I'm Sahil Pandey! 👋
 
 ###  About Me
-- 🎓 **First-Year Engineering Physics** Student at **Delhi Technological University**
+- 🎓 **Second year** Student at **Delhi Technological University**
 - 💻 Passionate about **Data Structures & Algorithms (DSA)** and software development
 - 🛠️ Currently mastering **C++** for tech placements
-- 🎨 Fun Fact: I love creating stylized **3D aesthetic visuals** in my free time!
+- 🎨 Fun Fact: I love creating stylized **3D aesthetic visuals and video editing** in my free time!
 
 ---
 
@@ -17,9 +17,9 @@
 
 ---
 
-###  GitHub Stats
+### GitHub Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pandeysahil782006-star&show_icons=true&theme=gotham" alt="Sahil's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=pandeysahil782006-star&show_icons=true&theme=gotham" alt="Sahil's GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandeysahil782006-star&theme=gotham" alt="Sahil's Streak" height="150" />
 </p>
 
