@@ -8,9 +8,13 @@
 
 ---
 
-###  Tech Stack & Tools
+### Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-OpenCV-orange?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
@@ -22,5 +26,4 @@
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=pandeysahil782006-star&show_icons=true&theme=gotham" alt="Sahil's GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandeysahil782006-star&theme=gotham" alt="Sahil's Streak" height="150" />
 </p>
-
 
