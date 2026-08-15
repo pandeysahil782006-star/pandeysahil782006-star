@@ -28,6 +28,10 @@
 
 ### GitHub Metrics
 
-[![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandeysahil782006-star&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Sahil's Streak](https://streak-stats.demolab.com/?user=pandeysahil782006-star&theme=tokyonight)](https://git.io/streak-stats)
+
+<p align="left">
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=pandeysahil782006-star&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats" />
+  <img src="https://leetcard.jacoblin.cool/2jwEgwn4KR?theme=dark&font=baloo" height="160" alt="LeetCode Stats" />
+  <img src="https://streak-stats.demolab.com/?user=pandeysahil782006-star&theme=tokyonight" height="160" alt="GitHub Streak" />
+</p>
 
