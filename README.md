@@ -28,9 +28,14 @@
 
 ### Coding & Activity Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pandeysahil782006-star&theme=tokyonight&hide_border=false" height="175" alt="GitHub Streak" />
-  &nbsp;&nbsp;
-  <img src="https://leetcard.jacoblin.cool/Unverified_Bunny?theme=nord&font=baloo" height="175" alt="LeetCode Stats" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr align="center">
+    <td align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=pandeysahil782006-star&theme=tokyonight&hide_border=false" height="165" alt="GitHub Streak" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://leetcard.jacoblin.cool/Unverified_Bunny?theme=nord&font=baloo" height="165" alt="LeetCode Stats" />
+    </td>
+  </tr>
+</table>
 
