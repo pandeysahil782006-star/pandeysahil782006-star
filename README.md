@@ -28,10 +28,11 @@
 
 ### GitHub Metrics
 
-
 <p align="left">
-  <img src="https://github-readme-stats.azurewebsites.net/api?username=pandeysahil782006-star&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats" />
-  <img src="https://leetcard.jacoblin.cool/2jwEgwn4KR?theme=dark&font=baloo" height="160" alt="LeetCode Stats" />
-  <img src="https://streak-stats.demolab.com/?user=pandeysahil782006-star&theme=tokyonight" height="160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=pandeysahil782006-star&theme=tokyonight" height="175" alt="GitHub Streak" />
+  <img src="https://leetcard.jacoblin.cool/Unverified_Bunny?theme=nord&font=baloo" height="175" alt="LeetCode Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pandeysahil782006-star&show_icons=true&theme=tokyonight" height="175" alt="GitHub Stats" />
 </p>
 
