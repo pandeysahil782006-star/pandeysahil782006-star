@@ -26,13 +26,11 @@
 
 ---
 
-### GitHub Metrics
+### Coding & Activity Stats
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=pandeysahil782006-star&theme=tokyonight" height="175" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pandeysahil782006-star&theme=tokyonight&hide_border=false" height="175" alt="GitHub Streak" />
+  &nbsp;&nbsp;
   <img src="https://leetcard.jacoblin.cool/Unverified_Bunny?theme=nord&font=baloo" height="175" alt="LeetCode Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pandeysahil782006-star&show_icons=true&theme=tokyonight" height="175" alt="GitHub Stats" />
 </p>
 
